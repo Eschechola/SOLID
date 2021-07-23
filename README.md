@@ -1,2 +1,4 @@
 # SOLID
-Repositório contendo exemplos do artigo sobre SOLID - Exemplos do mundo real
+Artigo mostrando exemplos da vida sobre SOLID!
+<br>
+Link: <a href="#">Em desenvolvimento...</a>
